@@ -43,7 +43,7 @@ B大调音阶: B C# D# E F# G# A# B
 
 
 F#大调音阶: F# G# A# B C# D# E# F#
-![F# tone](./assets/F#.jpg)
+![F# tone](./assets/F%23.jpg)
 
 
 
