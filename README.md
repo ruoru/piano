@@ -13,32 +13,32 @@
 #### 1. 大调
 
 C大调音阶: C D E F G A B C
-![tone](./assets/C.jpg)
+![C tone](./assets/C.jpg)
 
 
 
 G大调音阶: G A B C D E F# G
-![tone](./assets/G.jpg)
+![G tone](./assets/G.jpg)
 
 
 
 D大调音阶: D E F# G A B C# D
-![tone](./assets/D.jpg)
+![D tone](./assets/D.jpg)
 
 
 
 A大调音阶: A B C# D E F# G# A
-![tone](./assets/A.jpg)
+![A tone](./assets/A.jpg)
 
 
 
 E大调音阶: E F# G# A B C# D# E
-![tone](./assets/E.jpg)
+![E tone](./assets/E.jpg)
 
 
 
 B大调音阶: B C# D# E F# G# A# B
-![tone](./assets/B.jpg)
+![B tone](./assets/B.jpg)
 
 
 
@@ -48,26 +48,26 @@ F#大调音阶: F# G# A# B C# D# E# F#
 
 
 Db大调音阶: Db Eb F Gb Ab Bb C Db
-![tone](./assets/Db.jpg)
+![Db tone](./assets/Db.jpg)
 
 
 
 Ab大调音阶: Ab Bb C Db Eb F G Ab
-![tone](./assets/Ab.jpg)
+![Ab tone](./assets/Ab.jpg)
 
 
 
 Eb大调音阶: Eb F G Ab Bb C D Eb
-![tone](./assets/Eb.jpg)
+![Eb tone](./assets/Eb.jpg)
 
 
 
 Bb大调音阶: Bb C D Eb F G A Bb
-![tone](./assets/Bb.jpg)
+![Bb tone](./assets/Bb.jpg)
 
 
 
 F大调音阶: F G A Bb C D E F
-![tone](./assets/F.jpg)
+![F tone](./assets/F.jpg)
 
 #### 2. 小调
